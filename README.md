@@ -140,7 +140,7 @@ Machine Learning • Deep Learning • Statistical Analysis • Data Visualizati
 | **Data Analysis** | ⭐⭐⭐⭐☆ | 82% |
 | **Full Stack Development** | ⭐⭐⭐⭐☆ | 80% |
 | **JavaScript/React** | ⭐⭐⭐⭐☆ | 80% |
-| **Java** | ⭐⭐⭐☆☆ | 50% |
+| **Java** | ⭐⭐⭐☆☆ | 70% |
 | **SQL/Databases** | ⭐⭐⭐⭐☆ | 80% |
 | **Data Visualization** | ⭐⭐⭐⭐☆ | 80% |
 | **Statistical Analysis** | ⭐⭐⭐⭐☆ | 80% |
@@ -160,7 +160,7 @@ Machine Learning • Deep Learning • Statistical Analysis • Data Visualizati
 | Full Stack Development | <img src="https://img.shields.io/badge/Progress-80%25-00ff00?style=flat&labelColor=000000" /> | ✅ Proficient |
 | Deep Learning Mastery | <img src="https://img.shields.io/badge/Progress-70%25-ffaa00?style=flat&labelColor=000000" /> | 🔄 In Progress |
 | USTH Final Year Project | <img src="https://img.shields.io/badge/Progress-40%25-ffaa00?style=flat&labelColor=000000" /> | 🔄 In Progress |
-| Java | <img src="https://img.shields.io/badge/Progress-10%25-ff00ff?style=flat&labelColor=000000" /> | 🆕 Learning |
+| Java | <img src="https://img.shields.io/badge/Progress-70%25-ff00ff?style=flat&labelColor=000000" /> | 🆕 Learning |
 | AI Agent | <img src="https://img.shields.io/badge/Progress-10%25-ff00ff?style=flat&labelColor=000000" /> | 🆕 Learning |
 | DevOps & Cloud | <img src="https://img.shields.io/badge/Progress-10%25-ff00ff?style=flat&labelColor=000000" /> | 🆕 Learning |
 
